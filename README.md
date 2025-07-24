@@ -52,7 +52,7 @@ npm run dev
 npm run build
 ```
 
-## Notes for local dev on VR headset
+## Notes pour tester la RA
 
 1. Mettre les deux appareils sur le même réseau wifi
 
