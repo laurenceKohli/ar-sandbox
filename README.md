@@ -22,17 +22,6 @@
 - [aframe-multi-camera](https://github.com/diarmidmackenzie/aframe-multi-camera/) (MIT License)
 - [simple-navmesh-constraint](https://github.com/AdaRoseCannon/aframe-xr-boilerplate) (MIT Licence)
 
-### Movement modes support
-
-- **Desktop** – Keyboard for move (_WASD_ or Arrows keys) + Mouse for look control (Drag and drop)
-- **Mobile** – 1x Finger touch to go forward + 2x Fingers touch to go backward + Gaze cursor for click
-- **VR/AR** – walk + Teleport (Grip for grab and laser for click) + Gaze cursor for click in AR
-
-### 3D models
-
-- **Main room** – [VR Gallery](https://sketchfab.com/3d-models/vr-gallery-1ac32ed62fdf424498acc146fad31f7e) by [Maxim Mavrichev](https://sketchfab.com/mvrc.art) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **3D physic room** – [3d_gallery_for_vr_projects](https://sketchfab.com/3d-models/3d-gallery-for-vr-projects-68f77ed8558c4bd59e0a13e2cc9d1fd1) by [tekuto1s](https://sketchfab.com/tekuto1s) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-
 ---
 
 ## Quickstart
@@ -42,7 +31,7 @@
 ### Clone (or fork, or download)
 
 ```sh
-git clone https://github.com/Chabloz/a-frame-vite-vue-boilerplate.git .
+git clone https://github.com/laurenceKohli/ar-sandbox.git .
 ```
 
 ### Install dependencies
@@ -65,15 +54,15 @@ npm run build
 
 ## Notes for local dev on VR headset
 
-1. Check that your development device and your VR headset are connected on **the same network**.
+1. Mettre les deux appareils sur le même réseau wifi
 
-2. Expose you local development:
+2. Exposer le code :
 
 ```sh
 npm run dev-expose
 ```
 
-3. In your VR headset, browse to the local development adress `[ip]:[port]`.
+3. Dans le 2e appareil recopier le code `[ip]:[port]`.
 
 > [!NOTE]
 > The certificate is self-signed, so you will probably have to confirm access to the resource in your browser.
