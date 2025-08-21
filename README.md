@@ -10,8 +10,6 @@
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-### [>> DEMO <<](https://onivers.com/aframe-vue-boilerplate/)
-
 ## Included in the boilerplate
 
 ### Libs and components
