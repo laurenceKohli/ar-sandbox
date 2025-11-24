@@ -1,26 +1,4 @@
-<p align="center">
-    <img src="./logo.svg" alt="VAV Logo" align="center"/>
-</p>
 <h1 align="center">Vue + A-Frame + Vite boilerplate</h1>
-
-> A boilerplate for A-Frame 1.7, Vue 3.5 and Vite 5.4
-
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![A-Frame](https://img.shields.io/badge/A%E2%80%93Frame-1.7-brightgreen?style=for-the-badge&labelColor=%23ef2d5e&color=%23ef2d5e)
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-## Included in the boilerplate
-
-### Libs and components
-
-- [aframe-extras](https://github.com/c-frame/aframe-extras) (MIT License)
-- [aframe physx](https://github.com/c-frame/physx) (MIT License)
-- [aframe-blink-controls](https://github.com/jure/aframe-blink-controls) (MIT License)
-- [aframe-multi-camera](https://github.com/diarmidmackenzie/aframe-multi-camera/) (MIT License)
-- [simple-navmesh-constraint](https://github.com/AdaRoseCannon/aframe-xr-boilerplate) (MIT Licence)
-
----
 
 ## Quickstart
 
@@ -50,7 +28,7 @@ npm run dev
 npm run build
 ```
 
-## Notes for local dev on VR headset
+## Notes for local dev
 
 1. Mettre les deux appareils sur le même réseau wifi
 
